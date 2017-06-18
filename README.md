@@ -20,7 +20,7 @@ transfered to non-profit orginizations that will pursue green technology and upr
 from a street level.
 
 For more information, as well as an immediately useable, binary version of
-the Credit Core software, see [https://litecoin.org](https://creditcoin.io
+the Credit Core software, see [https://creditcoin.io](https://creditcoin.io
 ).
 
 License
