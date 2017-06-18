@@ -6,10 +6,10 @@
 IF="eth0"
 #limit of the network interface in question
 LINKCEIL="1gbit"
-#limit outbound Litecoin protocol traffic to this rate
+#limit outbound Credit protocol traffic to this rate
 LIMIT="160kbit"
 #defines the address space for which you wish to disable rate limiting
-LOCALNET="192.168.0.0/16"
+LOCALNET="10.0.0.0/16"
 
 #delete existing rules
 tc qdisc del dev ${IF} root
