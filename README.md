@@ -3,7 +3,7 @@ Creditcoin Core integration/staging tree
 
 [![Build Status](https://creditcoin.io/creditcoin-project/creditcoin.svg?branch=master)](https://creditcoin.io/creditcoin-project/creditcoin)
 
-https://creditcoin.io
+https://creditcoin.net
 
 What is The Credit?
 ----------------
@@ -20,7 +20,7 @@ transfered to non-profit orginizations that will pursue green technology and upr
 from a street level.
 
 For more information, as well as an immediately useable, binary version of
-the Credit Core software, see [https://creditcoin.io](https://creditcoin.io
+the Credit Core software, see [https://creditcoin.net](https://creditcoin.net
 ).
 
 License
